@@ -1,0 +1,8 @@
+input:
+  input_blob_name: "input"
+
+output:
+  num_classes: 2
+  output_blob_name: ["output1", "output2", "output3"]
+  output_directory: "onnx"
+  output_model: "best_model.onnx"

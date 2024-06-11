@@ -1,0 +1,4 @@
+your_dataset/images/train/sample_image1.jpg,211,43,354,186,0
+your_dataset/images/train/sample_image1.jpg,137,28,469,479,1
+your_dataset/images/train/sample_image2.jpg,211,43,354,186,0
+your_dataset/images/train/sample_image2.jpg,137,28,469,479,1

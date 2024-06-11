@@ -1,0 +1,10 @@
+input_blob_name: "input"
+detect_threshold: 0.25
+iou_threshold: 0.45
+min_image_size: [240, 320] # QVGA
+max_image_size: [2160, 3840] # 4K
+scale_list: [1.0]
+num_classes: 2
+category_target_dict: {0: "head", 1: "person"}
+category_colors: [[255, 125, 255],
+                  [125, 255, 125]]
